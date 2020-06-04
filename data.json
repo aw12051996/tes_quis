@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "no": 1,
+      "question": "Yang termasuk kedalam MERN Stack ialah ?",
+      "choices": ["MongoDB", "Express", "React", "Angular", "Vue"],
+      "answer_key": ["MongoDB", "Express", "React"],
+      "answers": [],
+      "status": false
+    },
+    {
+      "no": 2,
+      "question": "Yang termasuk database SQL ?",
+      "choices": [
+        "MongoDB",
+        "MySQL",
+        "Postgre",
+        "Oracle",
+        "Casandra",
+        "CouchDB",
+        "Redis",
+        "Neo4J"
+      ],
+      "answer_key": ["MySQL", "Postgre", "Oracle"],
+      "answers": [],
+      "status": false
+    }
+  ]
+}
